@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535723044713",
+    "project_id": "academia-app-4d3a5",
+    "storage_bucket": "academia-app-4d3a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535723044713:android:328d5dae63de36c0c217f8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuLNgHsjVEqAWnLSUlucqrA5RCTNmCLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
